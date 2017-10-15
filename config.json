@@ -1,0 +1,8 @@
+{
+	"bittrex":{
+		"marketSummariesEndpoint":"https://bittrex.com/api/v1.1/public/getmarketsummaries"
+	},
+	"gdax":{
+		"marketSummariesEndpoint":null	
+	}
+}

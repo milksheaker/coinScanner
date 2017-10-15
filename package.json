@@ -1,0 +1,16 @@
+{
+  "name": "coinScanner",
+  "version": "1.0.0",
+  "description": "Basic coin scanner",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico J.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.14.1",
+    "hbs": "^4.0.1",
+    "request": "^2.79.0"
+  }
+}
